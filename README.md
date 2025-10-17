@@ -95,7 +95,6 @@ For questions or enhancements, please contact the dashboard developer
 
 ---
 ## KPI Cards (Top Summary Section)
-
 ![alt text](<Images/1_KPI Cards.png>)
 
 
@@ -111,8 +110,7 @@ For questions or enhancements, please contact the dashboard developer
 
 
 ## Dropdown Filter (Country, Region, Local Authority)
-![alt text](2_Drop.png)
-
+![alt text](Images/2_Drop.png)
 **Description**: Allows filtering the data by hierarchical geography.
 
 **Features**:
@@ -120,8 +118,8 @@ For questions or enhancements, please contact the dashboard developer
 - Affects all visual elements on the page for consistent data slicing.
 
 ## Line Chart (Emissions over Time)
-![alt text](<3_Line Chart.png>)
 
+![alt text](<Images/3_Line Chart.png>)
 **Description**: Time series trend showing total emissions (kt CO2e) from 2005 to 2023.
 
 **Features**:
@@ -129,7 +127,7 @@ For questions or enhancements, please contact the dashboard developer
 - Tooltip shows exact values for emissions and per capita emissions by year and country.
 
 ## Top 10 Local Authorities by CO2e (Bar Chart)
-![alt text](<4_Top 10 Local Authorities by CO2e.png>)
+![alt text](<Images/4_Top 10 Local Authorities by CO2e.png>)
 
 **Description**: Highlights the top 10 emitting Local Authorities based on selected filters.
 
@@ -138,8 +136,7 @@ For questions or enhancements, please contact the dashboard developer
 - Drill-through enabled to navigate to detailed Local Authority report.
 
 ## Map - Emissions in Local Authorities
-![alt text](5_Map.png)
-
+![alt text](Images/5_Map.png)
 **Description**: Interactive map displaying emissions at the Local Authority level.
 
 **Features**:
@@ -148,10 +145,10 @@ For questions or enhancements, please contact the dashboard developer
   - Emissions, Population, Per Capita Emissions, Year
 - Drill-through enabled from map points to detail page.
 - Zoom and pan for better spatial focus.
-![alt text](7_Map_Drill-through.png)
+![alt text](Images/7_Map_Drill-through.png)
 
 ## Emissions Table by Sector and Region
-![alt text](6_Table.png)
+![alt text](Images/6_Table.png)
 
 **Description**: Tabular breakdown of emissions by sectors (Agriculture, Commercial, Domestic, etc.) across regions/countries.
 
@@ -161,8 +158,8 @@ For questions or enhancements, please contact the dashboard developer
 
 
 ## Drill-through Detail Page (e.g. Dumfries and Galloway)
-![alt text](8_Drill_Through.png)
 
+![alt text](Images/8_Drill_Through.png)
 
 **Description**: Displays detailed emissions analysis for a single selected Local Authority.
 
@@ -175,7 +172,7 @@ For questions or enhancements, please contact the dashboard developer
 
 ## Benchmarking: CO₂e Emissions vs National & Regional Averages
 
-![alt text](9_Drill_New_features.png)
+![alt text](Images/9_Drill_New_features.png)
 **Description**:Compare one Local Authority's performance to regional and national averages. 
 
 **Features**: 
@@ -204,9 +201,9 @@ Sector Drilldowns: Allow users to click on a sector and drill into sub-sector em
 
 
 ---
-![alt text](image.png)
+![alt text](Images/image.png)
 
-![alt text](9_Drill_New_features.png)
+![alt text](Images/9_Drill_New_features.png)
 
 # Conclusion & Key Insights
 
