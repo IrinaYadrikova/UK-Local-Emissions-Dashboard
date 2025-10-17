@@ -2,7 +2,7 @@
 
 This Power BI dashboard presents CO₂e emissions across UK Local Authorities from 2005 to 2023. It enables stakeholders to explore and analyse emissions data with interactive visuals, filters, and insights by region, sector, and per capita emissions.
 
-![Dashboard Screenshot](Dashboard.jpg)
+![alt text](<Screenshot 2025-10-16 141332.png>)
 
 ---
 
@@ -96,7 +96,8 @@ For questions or enhancements, please contact the dashboard developer
 ---
 ## KPI Cards (Top Summary Section)
 
-![alt text](<1_KPI Cards.png>)
+![alt text](<Images/1_KPI Cards.png>)
+
 
 **Description**: Displays high-level KPIs for the selected filters and time range:
 - **% Change Since 2005**: Percentage change in emissions since the baseline year.
